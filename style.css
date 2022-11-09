@@ -1,0 +1,70 @@
+#Header {
+    background: darkcyan;
+    height: 100px;
+    text-align: center;
+}
+
+#Menu {
+    background: darkgray;
+    height: 50px;
+    text-align: center;
+}
+
+#Asaid_3 {
+    background: aqua;
+    float: right;
+    width: 20%;
+    height: 290px;
+    text-align: center;
+}
+
+#Bloc_left {
+    float: left;
+    width: 25%;
+}
+
+#Asaid_1 {
+    background: aqua;
+    height: 100px;
+    text-align: center;
+}
+
+#Asaid_2 {
+    background: cyan;
+    height: 150px;
+    text-align: center;
+}
+
+#Main_Content {
+    height: 250px;
+    background: cadetblue;
+    text-align: center;
+
+}
+#Footer{
+    background: darkcyan;
+    height: 50px;
+    text-align: center;
+
+}
+#Main_Content {
+    float: left;
+    height: 290px;
+    width: 55%;
+}
+#Section_1{
+    background: darkgray;
+    height: 100px;
+}
+#Section_2{
+    background: darkgray;
+    height: 100px;
+}
+body{
+    display: block;
+}
+#conteuner{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+}
